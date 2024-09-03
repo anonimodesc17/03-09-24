@@ -1,0 +1,34 @@
+corpo{
+família de fontes: Arial, sans-srif;
+margem: 0;
+preenchimento: 0;
+plano de fundo: #f4f4f4;
+}
+
+cabeçalho{
+cor de fundo: #4CaF50;
+cor: #FFFFFF;
+preenchimento: 1em 0;
+alinhamento de texto: centro;
+}
+
+navegação{
+cor de fundo: #333333;
+estouro: oculto;
+}
+
+navegar em{
+cor: #f2f2f2;
+exibição: bloco;
+preenchimento: 14px 16px;
+flutuar: esquerda;
+alinhamento de texto: centro;
+decoração de texto: nenhuma;
+intensidade da fonte: Negrito;
+transição: 1s tudo;
+}
+
+navegação a:hover{
+cor de fundo: #dddddd;
+cor preta;
+}
